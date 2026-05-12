@@ -1,0 +1,2 @@
+Add your Power BI .pbix file in this folder.
+Example: healthcare_dashboard.pbix
