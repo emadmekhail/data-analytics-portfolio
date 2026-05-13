@@ -36,7 +36,7 @@ This project focuses on building an Arabic text summarization system using Trans
 
 ## Project Files
 
-- `NLTK-Summarizer-checkpoint.ipynb`  
+- `arabic_text_summarization.ipynb`  
   Main notebook containing the text summarization workflow.
 
 - `requirements.txt`  
