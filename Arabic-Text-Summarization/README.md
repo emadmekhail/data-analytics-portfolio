@@ -36,4 +36,18 @@ This project focuses on building an Arabic text summarization system using Trans
 
 ## Project Files
 
-Add your notebooks, API files, and screenshots inside this folder.
+- `NLTK-Summarizer-checkpoint.ipynb`  
+  Main notebook containing the text summarization workflow.
+
+- `requirements.txt`  
+  Contains the required Python libraries to run the project.
+
+- `images/image.png`  
+  Project screenshot / output preview.
+
+## How to Run
+
+1. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
