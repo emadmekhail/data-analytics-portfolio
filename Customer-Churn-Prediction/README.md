@@ -37,8 +37,6 @@ This project uses machine learning classification models to predict customer chu
 
 ## Project Files
 
-Add your notebook inside the `notebooks` folder.
-
 Example:
 
 ```text
