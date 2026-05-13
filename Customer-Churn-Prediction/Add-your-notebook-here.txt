@@ -1,2 +1,0 @@
-Add your Jupyter notebook here.
-Example: notebooks/churn_prediction.ipynb
