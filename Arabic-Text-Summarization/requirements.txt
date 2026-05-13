@@ -1,0 +1,9 @@
+transformers
+torch
+sentencepiece
+pandas
+numpy
+scikit-learn
+rouge-score
+fastapi
+uvicorn
